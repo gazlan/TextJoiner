@@ -1,0 +1,8 @@
+-*-   TextJoiner (MMF) 1.0   *   Copyright (c) Gazlan  2014   -*-
+
+Text files joiner (MMF)
+
+Usage: tj.com wildcards
+
+complains_n_suggestions direct to gazlan@yandex.ru
+

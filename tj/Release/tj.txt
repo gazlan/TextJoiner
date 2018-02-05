@@ -1,0 +1,8 @@
+-*-   TextJoiner 1.0   *   Copyright (c) Gazlan  2012   -*-
+
+Text files joiner
+
+Usage: tj.com wildcards
+
+complains_n_suggestions direct to gazlan@yandex.ru
+
